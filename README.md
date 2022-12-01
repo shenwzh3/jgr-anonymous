@@ -1,5 +1,9 @@
 # Joint Generator-Ranker Learning for Natural Language Generation
 
+## Updates
+
+* 2022/12/1: We have finished the human evaluation and provided guides and annatation results in `./huamn_evaluation`.
+
 ## Quick Links
 
 - [Requirements](#requirements)
